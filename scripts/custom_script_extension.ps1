@@ -1,0 +1,1 @@
+ Set-Content -Path "C:\MyTextFile.txt" -Value "My Value: $(Get-Date); " -Force
